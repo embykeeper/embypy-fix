@@ -1,6 +1,5 @@
 aiohttp
 arrow
-asyncio
 requests
 simplejson
 websockets

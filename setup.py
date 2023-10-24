@@ -15,7 +15,7 @@ with open('requirements.txt', 'r') as f:
     requirements = f.readlines()
 
 setup(
-    name='EmbyPy',
+    name='embypyfix',
     version='0.6.6.4',
     author='Andriy Zasypkin',
     author_email='AndriyZasypkin@gmail.com',
